@@ -1,4 +1,1 @@
-puppet-repo
-===========
-
-puppet stuff
+This repo contains puppet training material and scripts
